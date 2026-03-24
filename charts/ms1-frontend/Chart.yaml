@@ -1,0 +1,7 @@
+apiVersion: v2
+name: ms1-frontend
+description: Sample application frontend
+type: application
+version: 0.1.0
+appVersion: "1.0.0"
+
